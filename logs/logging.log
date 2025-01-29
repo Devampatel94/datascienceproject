@@ -226,3 +226,705 @@ x==========x: ]
 [2025-01-28 22:22:05,534: INFO: main: >>>>>> stage Data Validation stage completed <<<<<<
 
 x==========x: ]
+[2025-01-28 23:05:36,094: INFO: main: >>>>>> stage Data Trnasformation Stage started <<<<<<: ]
+[2025-01-28 23:05:36,115: INFO: common: yaml file: config\config.yaml loaded successfully: ]
+[2025-01-28 23:05:36,162: INFO: common: yaml file: params.yaml loaded successfully: ]
+[2025-01-28 23:05:36,184: INFO: common: yaml file: schema.yaml loaded successfully: ]
+[2025-01-28 23:05:36,194: INFO: common: created directory at: artifacts: ]
+[2025-01-28 23:05:36,195: INFO: common: created directory at: artifacts/data_ingestion: ]
+[2025-01-28 23:05:36,197: INFO: data_ingestion: File already exists: ]
+[2025-01-28 23:05:36,259: INFO: main: >>>>>> stage Data Trnasformation Stage completed <<<<<<
+
+x==========x: ]
+[2025-01-28 23:05:36,260: INFO: main: >>>>>> stage Data Validation stage started <<<<<<: ]
+[2025-01-28 23:05:36,265: INFO: common: yaml file: config\config.yaml loaded successfully: ]
+[2025-01-28 23:05:36,266: INFO: common: yaml file: params.yaml loaded successfully: ]
+[2025-01-28 23:05:36,269: INFO: common: yaml file: schema.yaml loaded successfully: ]
+[2025-01-28 23:05:36,270: INFO: common: created directory at: artifacts: ]
+[2025-01-28 23:05:36,270: INFO: common: created directory at: artifacts/data_validation: ]
+[2025-01-28 23:05:36,447: INFO: main: >>>>>> stage Data Validation stage completed <<<<<<
+
+x==========x: ]
+[2025-01-28 23:05:36,449: INFO: main: >>>>>> stage Data Transformation stage started <<<<<<: ]
+[2025-01-28 23:05:36,467: INFO: main: >>>>>> stage Data Transformation stage completed <<<<<<
+
+x==========x: ]
+[2025-01-28 23:08:45,217: INFO: main: >>>>>> stage Data Trnasformation Stage started <<<<<<: ]
+[2025-01-28 23:08:45,220: INFO: common: yaml file: config\config.yaml loaded successfully: ]
+[2025-01-28 23:08:45,221: INFO: common: yaml file: params.yaml loaded successfully: ]
+[2025-01-28 23:08:45,224: INFO: common: yaml file: schema.yaml loaded successfully: ]
+[2025-01-28 23:08:45,226: INFO: common: created directory at: artifacts: ]
+[2025-01-28 23:08:45,228: INFO: common: created directory at: artifacts/data_ingestion: ]
+[2025-01-28 23:08:45,231: INFO: data_ingestion: File already exists: ]
+[2025-01-28 23:08:45,237: INFO: main: >>>>>> stage Data Trnasformation Stage completed <<<<<<
+
+x==========x: ]
+[2025-01-28 23:08:45,241: INFO: main: >>>>>> stage Data Validation stage started <<<<<<: ]
+[2025-01-28 23:08:45,245: INFO: common: yaml file: config\config.yaml loaded successfully: ]
+[2025-01-28 23:08:45,246: INFO: common: yaml file: params.yaml loaded successfully: ]
+[2025-01-28 23:08:45,250: INFO: common: yaml file: schema.yaml loaded successfully: ]
+[2025-01-28 23:08:45,251: INFO: common: created directory at: artifacts: ]
+[2025-01-28 23:08:45,251: INFO: common: created directory at: artifacts/data_validation: ]
+[2025-01-28 23:08:45,281: INFO: main: >>>>>> stage Data Validation stage completed <<<<<<
+
+x==========x: ]
+[2025-01-28 23:08:45,283: INFO: main: >>>>>> stage Data Transformation stage started <<<<<<: ]
+[2025-01-28 23:08:45,294: INFO: main: >>>>>> stage Data Transformation stage completed <<<<<<
+
+x==========x: ]
+[2025-01-28 23:09:36,149: INFO: main: >>>>>> stage Data Trnasformation Stage started <<<<<<: ]
+[2025-01-28 23:09:36,157: INFO: common: yaml file: config\config.yaml loaded successfully: ]
+[2025-01-28 23:09:36,160: INFO: common: yaml file: params.yaml loaded successfully: ]
+[2025-01-28 23:09:36,169: INFO: common: yaml file: schema.yaml loaded successfully: ]
+[2025-01-28 23:09:36,170: INFO: common: created directory at: artifacts: ]
+[2025-01-28 23:09:36,171: INFO: common: created directory at: artifacts/data_ingestion: ]
+[2025-01-28 23:09:36,172: INFO: data_ingestion: File already exists: ]
+[2025-01-28 23:09:36,177: INFO: main: >>>>>> stage Data Trnasformation Stage completed <<<<<<
+
+x==========x: ]
+[2025-01-28 23:09:36,185: INFO: main: >>>>>> stage Data Validation stage started <<<<<<: ]
+[2025-01-28 23:09:36,214: INFO: common: yaml file: config\config.yaml loaded successfully: ]
+[2025-01-28 23:09:36,220: INFO: common: yaml file: params.yaml loaded successfully: ]
+[2025-01-28 23:09:36,232: INFO: common: yaml file: schema.yaml loaded successfully: ]
+[2025-01-28 23:09:36,235: INFO: common: created directory at: artifacts: ]
+[2025-01-28 23:09:36,236: INFO: common: created directory at: artifacts/data_validation: ]
+[2025-01-28 23:09:36,306: INFO: main: >>>>>> stage Data Validation stage completed <<<<<<
+
+x==========x: ]
+[2025-01-28 23:09:36,307: INFO: main: >>>>>> stage Data Transformation stage started <<<<<<: ]
+[2025-01-28 23:09:36,310: INFO: main: >>>>>> stage Data Transformation stage completed <<<<<<
+
+x==========x: ]
+[2025-01-28 23:10:15,689: INFO: main: >>>>>> stage Data Trnasformation Stage started <<<<<<: ]
+[2025-01-28 23:10:15,691: INFO: common: yaml file: config\config.yaml loaded successfully: ]
+[2025-01-28 23:10:15,692: INFO: common: yaml file: params.yaml loaded successfully: ]
+[2025-01-28 23:10:15,695: INFO: common: yaml file: schema.yaml loaded successfully: ]
+[2025-01-28 23:10:15,695: INFO: common: created directory at: artifacts: ]
+[2025-01-28 23:10:15,696: INFO: common: created directory at: artifacts/data_ingestion: ]
+[2025-01-28 23:10:15,696: INFO: data_ingestion: File already exists: ]
+[2025-01-28 23:10:15,699: INFO: main: >>>>>> stage Data Trnasformation Stage completed <<<<<<
+
+x==========x: ]
+[2025-01-28 23:10:15,699: INFO: main: >>>>>> stage Data Validation stage started <<<<<<: ]
+[2025-01-28 23:10:15,702: INFO: common: yaml file: config\config.yaml loaded successfully: ]
+[2025-01-28 23:10:15,704: INFO: common: yaml file: params.yaml loaded successfully: ]
+[2025-01-28 23:10:15,708: INFO: common: yaml file: schema.yaml loaded successfully: ]
+[2025-01-28 23:10:15,709: INFO: common: created directory at: artifacts: ]
+[2025-01-28 23:10:15,710: INFO: common: created directory at: artifacts/data_validation: ]
+[2025-01-28 23:10:15,743: INFO: main: >>>>>> stage Data Validation stage completed <<<<<<
+
+x==========x: ]
+[2025-01-28 23:10:15,744: INFO: main: >>>>>> stage Data Transformation stage started <<<<<<: ]
+[2025-01-28 23:10:15,758: INFO: main: >>>>>> stage Data Transformation stage completed <<<<<<
+
+x==========x: ]
+[2025-01-28 23:11:04,898: INFO: main: >>>>>> stage Data Trnasformation Stage started <<<<<<: ]
+[2025-01-28 23:11:04,901: INFO: common: yaml file: config\config.yaml loaded successfully: ]
+[2025-01-28 23:11:04,901: INFO: common: yaml file: params.yaml loaded successfully: ]
+[2025-01-28 23:11:04,905: INFO: common: yaml file: schema.yaml loaded successfully: ]
+[2025-01-28 23:11:04,905: INFO: common: created directory at: artifacts: ]
+[2025-01-28 23:11:04,908: INFO: common: created directory at: artifacts/data_ingestion: ]
+[2025-01-28 23:11:04,909: INFO: data_ingestion: File already exists: ]
+[2025-01-28 23:11:04,916: INFO: main: >>>>>> stage Data Trnasformation Stage completed <<<<<<
+
+x==========x: ]
+[2025-01-28 23:11:04,917: INFO: main: >>>>>> stage Data Validation stage started <<<<<<: ]
+[2025-01-28 23:11:04,921: INFO: common: yaml file: config\config.yaml loaded successfully: ]
+[2025-01-28 23:11:04,922: INFO: common: yaml file: params.yaml loaded successfully: ]
+[2025-01-28 23:11:04,930: INFO: common: yaml file: schema.yaml loaded successfully: ]
+[2025-01-28 23:11:04,932: INFO: common: created directory at: artifacts: ]
+[2025-01-28 23:11:04,934: INFO: common: created directory at: artifacts/data_validation: ]
+[2025-01-28 23:11:04,972: INFO: main: >>>>>> stage Data Validation stage completed <<<<<<
+
+x==========x: ]
+[2025-01-28 23:11:04,979: INFO: main: >>>>>> stage Data Transformation stage started <<<<<<: ]
+[2025-01-28 23:11:04,986: INFO: main: >>>>>> stage Data Transformation stage completed <<<<<<
+
+x==========x: ]
+[2025-01-28 23:12:44,578: INFO: main: >>>>>> stage Data Trnasformation Stage started <<<<<<: ]
+[2025-01-28 23:12:44,581: INFO: common: yaml file: config\config.yaml loaded successfully: ]
+[2025-01-28 23:12:44,581: INFO: common: yaml file: params.yaml loaded successfully: ]
+[2025-01-28 23:12:44,585: INFO: common: yaml file: schema.yaml loaded successfully: ]
+[2025-01-28 23:12:44,585: INFO: common: created directory at: artifacts: ]
+[2025-01-28 23:12:44,586: INFO: common: created directory at: artifacts/data_ingestion: ]
+[2025-01-28 23:12:44,587: INFO: data_ingestion: File already exists: ]
+[2025-01-28 23:12:44,591: INFO: main: >>>>>> stage Data Trnasformation Stage completed <<<<<<
+
+x==========x: ]
+[2025-01-28 23:12:44,592: INFO: main: >>>>>> stage Data Validation stage started <<<<<<: ]
+[2025-01-28 23:12:44,597: INFO: common: yaml file: config\config.yaml loaded successfully: ]
+[2025-01-28 23:12:44,601: INFO: common: yaml file: params.yaml loaded successfully: ]
+[2025-01-28 23:12:44,604: INFO: common: yaml file: schema.yaml loaded successfully: ]
+[2025-01-28 23:12:44,606: INFO: common: created directory at: artifacts: ]
+[2025-01-28 23:12:44,606: INFO: common: created directory at: artifacts/data_validation: ]
+[2025-01-28 23:12:44,634: INFO: main: >>>>>> stage Data Validation stage completed <<<<<<
+
+x==========x: ]
+[2025-01-28 23:12:44,638: INFO: main: >>>>>> stage Data Transformation stage started <<<<<<: ]
+[2025-01-28 23:12:44,644: INFO: common: yaml file: config\config.yaml loaded successfully: ]
+[2025-01-28 23:12:44,645: INFO: common: yaml file: params.yaml loaded successfully: ]
+[2025-01-28 23:12:44,649: INFO: common: yaml file: schema.yaml loaded successfully: ]
+[2025-01-28 23:12:44,650: INFO: common: created directory at: artifacts: ]
+[2025-01-28 23:12:44,653: INFO: common: created directory at: artifacts/data_transformation: ]
+[2025-01-28 23:12:44,653: INFO: main: >>>>>> stage Data Transformation stage completed <<<<<<
+
+x==========x: ]
+[2025-01-28 23:13:46,194: INFO: main: >>>>>> stage Data Trnasformation Stage started <<<<<<: ]
+[2025-01-28 23:13:46,211: INFO: common: yaml file: config\config.yaml loaded successfully: ]
+[2025-01-28 23:13:46,217: INFO: common: yaml file: params.yaml loaded successfully: ]
+[2025-01-28 23:13:46,224: INFO: common: yaml file: schema.yaml loaded successfully: ]
+[2025-01-28 23:13:46,226: INFO: common: created directory at: artifacts: ]
+[2025-01-28 23:13:46,233: INFO: common: created directory at: artifacts/data_ingestion: ]
+[2025-01-28 23:13:46,235: INFO: data_ingestion: File already exists: ]
+[2025-01-28 23:13:46,240: INFO: main: >>>>>> stage Data Trnasformation Stage completed <<<<<<
+
+x==========x: ]
+[2025-01-28 23:13:46,242: INFO: main: >>>>>> stage Data Validation stage started <<<<<<: ]
+[2025-01-28 23:13:46,256: INFO: common: yaml file: config\config.yaml loaded successfully: ]
+[2025-01-28 23:13:46,259: INFO: common: yaml file: params.yaml loaded successfully: ]
+[2025-01-28 23:13:46,272: INFO: common: yaml file: schema.yaml loaded successfully: ]
+[2025-01-28 23:13:46,274: INFO: common: created directory at: artifacts: ]
+[2025-01-28 23:13:46,278: INFO: common: created directory at: artifacts/data_validation: ]
+[2025-01-28 23:13:46,312: INFO: main: >>>>>> stage Data Validation stage completed <<<<<<
+
+x==========x: ]
+[2025-01-28 23:13:46,313: INFO: main: >>>>>> stage Data Transformation stage started <<<<<<: ]
+[2025-01-28 23:13:46,321: INFO: common: yaml file: config\config.yaml loaded successfully: ]
+[2025-01-28 23:13:46,325: INFO: common: yaml file: params.yaml loaded successfully: ]
+[2025-01-28 23:13:46,330: INFO: common: yaml file: schema.yaml loaded successfully: ]
+[2025-01-28 23:13:46,331: INFO: common: created directory at: artifacts: ]
+[2025-01-28 23:13:46,332: INFO: common: created directory at: artifacts/data_transformation: ]
+[2025-01-28 23:13:46,549: INFO: data_transformation: Splited data into training and test sets: ]
+[2025-01-28 23:13:46,549: INFO: data_transformation: (1199, 12): ]
+[2025-01-28 23:13:46,550: INFO: data_transformation: (400, 12): ]
+[2025-01-28 23:13:46,564: INFO: main: >>>>>> stage Data Transformation stage completed <<<<<<
+
+x==========x: ]
+[2025-01-29 14:27:34,261: INFO: main: >>>>>> stage Model Trainer stage started <<<<<<: ]
+[2025-01-29 14:27:34,282: INFO: common: yaml file: config\config.yaml loaded successfully: ]
+[2025-01-29 14:27:34,364: INFO: common: yaml file: params.yaml loaded successfully: ]
+[2025-01-29 14:27:34,367: INFO: common: yaml file: schema.yaml loaded successfully: ]
+[2025-01-29 14:27:34,396: INFO: common: created directory at: artifacts: ]
+[2025-01-29 14:27:34,400: INFO: common: created directory at: artifacts/data_ingestion: ]
+[2025-01-29 14:27:34,401: INFO: data_ingestion: File already exists: ]
+[2025-01-29 14:27:34,475: INFO: main: >>>>>> stage Model Trainer stage completed <<<<<<
+
+x==========x: ]
+[2025-01-29 14:27:34,476: INFO: main: >>>>>> stage Data Validation stage started <<<<<<: ]
+[2025-01-29 14:27:34,481: INFO: common: yaml file: config\config.yaml loaded successfully: ]
+[2025-01-29 14:27:34,482: INFO: common: yaml file: params.yaml loaded successfully: ]
+[2025-01-29 14:27:34,486: INFO: common: yaml file: schema.yaml loaded successfully: ]
+[2025-01-29 14:27:34,488: INFO: common: created directory at: artifacts: ]
+[2025-01-29 14:27:34,489: INFO: common: created directory at: artifacts/data_validation: ]
+[2025-01-29 14:27:34,603: INFO: main: >>>>>> stage Data Validation stage completed <<<<<<
+
+x==========x: ]
+[2025-01-29 14:27:34,608: INFO: main: >>>>>> stage Data Transformation stage started <<<<<<: ]
+[2025-01-29 14:27:34,624: INFO: common: yaml file: config\config.yaml loaded successfully: ]
+[2025-01-29 14:27:34,625: INFO: common: yaml file: params.yaml loaded successfully: ]
+[2025-01-29 14:27:34,629: INFO: common: yaml file: schema.yaml loaded successfully: ]
+[2025-01-29 14:27:34,631: INFO: common: created directory at: artifacts: ]
+[2025-01-29 14:27:34,632: INFO: common: created directory at: artifacts/data_transformation: ]
+[2025-01-29 14:27:34,790: INFO: data_transformation: Splited data into training and test sets: ]
+[2025-01-29 14:27:34,791: INFO: data_transformation: (1199, 12): ]
+[2025-01-29 14:27:34,791: INFO: data_transformation: (400, 12): ]
+[2025-01-29 14:27:34,797: INFO: main: >>>>>> stage Data Transformation stage completed <<<<<<
+
+x==========x: ]
+[2025-01-29 14:27:34,798: INFO: main: >>>>>> stage Model Trainer stage started <<<<<<: ]
+[2025-01-29 14:27:34,799: ERROR: main: 'ModelTrainerTrainingPipeline' object has no attribute 'initiate_model_training': ]
+Traceback (most recent call last):
+  File "D:\DS\project\datascienceproject\main.py", line 40, in <module>
+    data_ingestion.initiate_model_training()
+AttributeError: 'ModelTrainerTrainingPipeline' object has no attribute 'initiate_model_training'
+[2025-01-29 14:30:02,512: INFO: main: >>>>>> stage Model Trainer stage started <<<<<<: ]
+[2025-01-29 14:30:02,516: INFO: common: yaml file: config\config.yaml loaded successfully: ]
+[2025-01-29 14:30:02,519: INFO: common: yaml file: params.yaml loaded successfully: ]
+[2025-01-29 14:30:02,521: INFO: common: yaml file: schema.yaml loaded successfully: ]
+[2025-01-29 14:30:02,522: INFO: common: created directory at: artifacts: ]
+[2025-01-29 14:30:02,523: INFO: common: created directory at: artifacts/data_ingestion: ]
+[2025-01-29 14:30:02,523: INFO: data_ingestion: File already exists: ]
+[2025-01-29 14:30:02,528: INFO: main: >>>>>> stage Model Trainer stage completed <<<<<<
+
+x==========x: ]
+[2025-01-29 14:30:02,529: INFO: main: >>>>>> stage Data Validation stage started <<<<<<: ]
+[2025-01-29 14:30:02,536: INFO: common: yaml file: config\config.yaml loaded successfully: ]
+[2025-01-29 14:30:02,539: INFO: common: yaml file: params.yaml loaded successfully: ]
+[2025-01-29 14:30:02,543: INFO: common: yaml file: schema.yaml loaded successfully: ]
+[2025-01-29 14:30:02,545: INFO: common: created directory at: artifacts: ]
+[2025-01-29 14:30:02,545: INFO: common: created directory at: artifacts/data_validation: ]
+[2025-01-29 14:30:02,575: INFO: main: >>>>>> stage Data Validation stage completed <<<<<<
+
+x==========x: ]
+[2025-01-29 14:30:02,577: INFO: main: >>>>>> stage Data Transformation stage started <<<<<<: ]
+[2025-01-29 14:30:02,585: INFO: common: yaml file: config\config.yaml loaded successfully: ]
+[2025-01-29 14:30:02,587: INFO: common: yaml file: params.yaml loaded successfully: ]
+[2025-01-29 14:30:02,590: INFO: common: yaml file: schema.yaml loaded successfully: ]
+[2025-01-29 14:30:02,591: INFO: common: created directory at: artifacts: ]
+[2025-01-29 14:30:02,593: INFO: common: created directory at: artifacts/data_transformation: ]
+[2025-01-29 14:30:02,632: INFO: data_transformation: Splited data into training and test sets: ]
+[2025-01-29 14:30:02,633: INFO: data_transformation: (1199, 12): ]
+[2025-01-29 14:30:02,633: INFO: data_transformation: (400, 12): ]
+[2025-01-29 14:30:02,635: INFO: main: >>>>>> stage Data Transformation stage completed <<<<<<
+
+x==========x: ]
+[2025-01-29 14:30:02,636: INFO: main: >>>>>> stage Model Trainer stage started <<<<<<: ]
+[2025-01-29 14:30:02,636: ERROR: main: 'ModelTrainerTrainingPipeline' object has no attribute 'initate_model_trainin': ]
+Traceback (most recent call last):
+  File "D:\DS\project\datascienceproject\main.py", line 40, in <module>
+    data_ingestion.initate_model_trainin()
+AttributeError: 'ModelTrainerTrainingPipeline' object has no attribute 'initate_model_trainin'
+[2025-01-29 14:31:28,723: INFO: main: >>>>>> stage Model Trainer stage started <<<<<<: ]
+[2025-01-29 14:31:28,731: INFO: common: yaml file: config\config.yaml loaded successfully: ]
+[2025-01-29 14:31:28,735: INFO: common: yaml file: params.yaml loaded successfully: ]
+[2025-01-29 14:31:28,744: INFO: common: yaml file: schema.yaml loaded successfully: ]
+[2025-01-29 14:31:28,745: INFO: common: created directory at: artifacts: ]
+[2025-01-29 14:31:28,747: INFO: common: created directory at: artifacts/data_ingestion: ]
+[2025-01-29 14:31:28,747: INFO: data_ingestion: File already exists: ]
+[2025-01-29 14:31:28,751: INFO: main: >>>>>> stage Model Trainer stage completed <<<<<<
+
+x==========x: ]
+[2025-01-29 14:31:28,758: INFO: main: >>>>>> stage Data Validation stage started <<<<<<: ]
+[2025-01-29 14:31:28,774: INFO: common: yaml file: config\config.yaml loaded successfully: ]
+[2025-01-29 14:31:28,776: INFO: common: yaml file: params.yaml loaded successfully: ]
+[2025-01-29 14:31:28,782: INFO: common: yaml file: schema.yaml loaded successfully: ]
+[2025-01-29 14:31:28,783: INFO: common: created directory at: artifacts: ]
+[2025-01-29 14:31:28,784: INFO: common: created directory at: artifacts/data_validation: ]
+[2025-01-29 14:31:28,827: INFO: main: >>>>>> stage Data Validation stage completed <<<<<<
+
+x==========x: ]
+[2025-01-29 14:31:28,828: INFO: main: >>>>>> stage Data Transformation stage started <<<<<<: ]
+[2025-01-29 14:31:28,834: INFO: common: yaml file: config\config.yaml loaded successfully: ]
+[2025-01-29 14:31:28,838: INFO: common: yaml file: params.yaml loaded successfully: ]
+[2025-01-29 14:31:28,845: INFO: common: yaml file: schema.yaml loaded successfully: ]
+[2025-01-29 14:31:28,846: INFO: common: created directory at: artifacts: ]
+[2025-01-29 14:31:28,847: INFO: common: created directory at: artifacts/data_transformation: ]
+[2025-01-29 14:31:28,876: INFO: data_transformation: Splited data into training and test sets: ]
+[2025-01-29 14:31:28,877: INFO: data_transformation: (1199, 12): ]
+[2025-01-29 14:31:28,878: INFO: data_transformation: (400, 12): ]
+[2025-01-29 14:31:28,879: INFO: main: >>>>>> stage Data Transformation stage completed <<<<<<
+
+x==========x: ]
+[2025-01-29 14:31:28,880: INFO: main: >>>>>> stage Model Trainer stage started <<<<<<: ]
+[2025-01-29 14:31:28,883: INFO: common: yaml file: config\config.yaml loaded successfully: ]
+[2025-01-29 14:31:28,886: INFO: common: yaml file: params.yaml loaded successfully: ]
+[2025-01-29 14:31:28,893: INFO: common: yaml file: schema.yaml loaded successfully: ]
+[2025-01-29 14:31:28,894: INFO: common: created directory at: artifacts: ]
+[2025-01-29 14:31:28,894: ERROR: main: "'ConfigBox' object has no attribute 'elasticnet'": ]
+Traceback (most recent call last):
+  File "box\\box.py", line 594, in box.box.Box.__getitem__
+KeyError: 'ElasticNet'
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "box\\box.py", line 633, in box.box.Box.__getattr__
+  File "box\\box.py", line 621, in box.box.Box.__getitem__
+box.exceptions.BoxKeyError: "'ElasticNet'"
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "box\\box.py", line 635, in box.box.Box.__getattr__
+AttributeError: 'ConfigBox' object has no attribute 'ElasticNet'
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "box\\config_box.py", line 29, in box.config_box.ConfigBox.__getattr__
+  File "box\\box.py", line 649, in box.box.Box.__getattr__
+box.exceptions.BoxKeyError: "'ConfigBox' object has no attribute 'ElasticNet'"
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "box\\box.py", line 594, in box.box.Box.__getitem__
+KeyError: 'elasticnet'
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "box\\box.py", line 633, in box.box.Box.__getattr__
+  File "box\\box.py", line 621, in box.box.Box.__getitem__
+box.exceptions.BoxKeyError: "'elasticnet'"
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "box\\box.py", line 635, in box.box.Box.__getattr__
+AttributeError: 'ConfigBox' object has no attribute 'elasticnet'
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "D:\DS\project\datascienceproject\main.py", line 40, in <module>
+    data_ingestion.initiate_model_training()
+  File "D:\DS\project\datascienceproject\src\datascienceproject\pipeline\model_trainer_pipeline.py", line 13, in initiate_model_training
+    model_trainer_config = config.get_model_trainer_config()
+  File "D:\DS\project\datascienceproject\src\datascienceproject\config\configuration.py", line 56, in get_model_trainer_config
+    params = self.params.ElasticNet
+  File "box\\config_box.py", line 31, in box.config_box.ConfigBox.__getattr__
+  File "box\\box.py", line 649, in box.box.Box.__getattr__
+box.exceptions.BoxKeyError: "'ConfigBox' object has no attribute 'elasticnet'"
+[2025-01-29 14:34:31,128: INFO: main: >>>>>> stage Model Trainer stage started <<<<<<: ]
+[2025-01-29 14:34:31,133: INFO: common: yaml file: config\config.yaml loaded successfully: ]
+[2025-01-29 14:34:31,134: INFO: common: yaml file: params.yaml loaded successfully: ]
+[2025-01-29 14:34:31,138: INFO: common: yaml file: schema.yaml loaded successfully: ]
+[2025-01-29 14:34:31,139: INFO: common: created directory at: artifacts: ]
+[2025-01-29 14:34:31,141: INFO: common: created directory at: artifacts/data_ingestion: ]
+[2025-01-29 14:34:31,142: INFO: data_ingestion: File already exists: ]
+[2025-01-29 14:34:31,150: INFO: main: >>>>>> stage Model Trainer stage completed <<<<<<
+
+x==========x: ]
+[2025-01-29 14:34:31,156: INFO: main: >>>>>> stage Data Validation stage started <<<<<<: ]
+[2025-01-29 14:34:31,163: INFO: common: yaml file: config\config.yaml loaded successfully: ]
+[2025-01-29 14:34:31,165: INFO: common: yaml file: params.yaml loaded successfully: ]
+[2025-01-29 14:34:31,168: INFO: common: yaml file: schema.yaml loaded successfully: ]
+[2025-01-29 14:34:31,169: INFO: common: created directory at: artifacts: ]
+[2025-01-29 14:34:31,170: INFO: common: created directory at: artifacts/data_validation: ]
+[2025-01-29 14:34:31,207: INFO: main: >>>>>> stage Data Validation stage completed <<<<<<
+
+x==========x: ]
+[2025-01-29 14:34:31,208: INFO: main: >>>>>> stage Data Transformation stage started <<<<<<: ]
+[2025-01-29 14:34:31,215: INFO: common: yaml file: config\config.yaml loaded successfully: ]
+[2025-01-29 14:34:31,217: INFO: common: yaml file: params.yaml loaded successfully: ]
+[2025-01-29 14:34:31,219: INFO: common: yaml file: schema.yaml loaded successfully: ]
+[2025-01-29 14:34:31,222: INFO: common: created directory at: artifacts: ]
+[2025-01-29 14:34:31,223: INFO: common: created directory at: artifacts/data_transformation: ]
+[2025-01-29 14:34:31,253: INFO: data_transformation: Splited data into training and test sets: ]
+[2025-01-29 14:34:31,257: INFO: data_transformation: (1199, 12): ]
+[2025-01-29 14:34:31,258: INFO: data_transformation: (400, 12): ]
+[2025-01-29 14:34:31,260: INFO: main: >>>>>> stage Data Transformation stage completed <<<<<<
+
+x==========x: ]
+[2025-01-29 14:34:31,261: INFO: main: >>>>>> stage Model Trainer stage started <<<<<<: ]
+[2025-01-29 14:34:31,265: INFO: common: yaml file: config\config.yaml loaded successfully: ]
+[2025-01-29 14:34:31,266: INFO: common: yaml file: params.yaml loaded successfully: ]
+[2025-01-29 14:34:31,269: INFO: common: yaml file: schema.yaml loaded successfully: ]
+[2025-01-29 14:34:31,278: INFO: common: created directory at: artifacts: ]
+[2025-01-29 14:34:31,279: ERROR: main: "'ConfigBox' object has no attribute 'elasticnet'": ]
+Traceback (most recent call last):
+  File "box\\box.py", line 594, in box.box.Box.__getitem__
+KeyError: 'ElasticNet'
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "box\\box.py", line 633, in box.box.Box.__getattr__
+  File "box\\box.py", line 621, in box.box.Box.__getitem__
+box.exceptions.BoxKeyError: "'ElasticNet'"
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "box\\box.py", line 635, in box.box.Box.__getattr__
+AttributeError: 'ConfigBox' object has no attribute 'ElasticNet'
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "box\\config_box.py", line 29, in box.config_box.ConfigBox.__getattr__
+  File "box\\box.py", line 649, in box.box.Box.__getattr__
+box.exceptions.BoxKeyError: "'ConfigBox' object has no attribute 'ElasticNet'"
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "box\\box.py", line 594, in box.box.Box.__getitem__
+KeyError: 'elasticnet'
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "box\\box.py", line 633, in box.box.Box.__getattr__
+  File "box\\box.py", line 621, in box.box.Box.__getitem__
+box.exceptions.BoxKeyError: "'elasticnet'"
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "box\\box.py", line 635, in box.box.Box.__getattr__
+AttributeError: 'ConfigBox' object has no attribute 'elasticnet'
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "D:\DS\project\datascienceproject\main.py", line 40, in <module>
+    data_ingestion.initiate_model_training()
+  File "D:\DS\project\datascienceproject\src\datascienceproject\pipeline\model_trainer_pipeline.py", line 13, in initiate_model_training
+    model_trainer_config = config.get_model_trainer_config()
+  File "D:\DS\project\datascienceproject\src\datascienceproject\config\configuration.py", line 56, in get_model_trainer_config
+    params = self.params.ElasticNet
+  File "box\\config_box.py", line 31, in box.config_box.ConfigBox.__getattr__
+  File "box\\box.py", line 649, in box.box.Box.__getattr__
+box.exceptions.BoxKeyError: "'ConfigBox' object has no attribute 'elasticnet'"
+[2025-01-29 14:36:54,370: INFO: main: >>>>>> stage Model Trainer stage started <<<<<<: ]
+[2025-01-29 14:36:54,375: INFO: common: yaml file: config\config.yaml loaded successfully: ]
+[2025-01-29 14:36:54,389: INFO: common: yaml file: params.yaml loaded successfully: ]
+[2025-01-29 14:36:54,393: INFO: common: yaml file: schema.yaml loaded successfully: ]
+[2025-01-29 14:36:54,394: INFO: common: created directory at: artifacts: ]
+[2025-01-29 14:36:54,395: INFO: common: created directory at: artifacts/data_ingestion: ]
+[2025-01-29 14:36:54,396: INFO: data_ingestion: File already exists: ]
+[2025-01-29 14:36:54,402: INFO: main: >>>>>> stage Model Trainer stage completed <<<<<<
+
+x==========x: ]
+[2025-01-29 14:36:54,404: INFO: main: >>>>>> stage Data Validation stage started <<<<<<: ]
+[2025-01-29 14:36:54,418: INFO: common: yaml file: config\config.yaml loaded successfully: ]
+[2025-01-29 14:36:54,420: INFO: common: yaml file: params.yaml loaded successfully: ]
+[2025-01-29 14:36:54,433: INFO: common: yaml file: schema.yaml loaded successfully: ]
+[2025-01-29 14:36:54,435: INFO: common: created directory at: artifacts: ]
+[2025-01-29 14:36:54,436: INFO: common: created directory at: artifacts/data_validation: ]
+[2025-01-29 14:36:54,472: INFO: main: >>>>>> stage Data Validation stage completed <<<<<<
+
+x==========x: ]
+[2025-01-29 14:36:54,473: INFO: main: >>>>>> stage Data Transformation stage started <<<<<<: ]
+[2025-01-29 14:36:54,481: INFO: common: yaml file: config\config.yaml loaded successfully: ]
+[2025-01-29 14:36:54,483: INFO: common: yaml file: params.yaml loaded successfully: ]
+[2025-01-29 14:36:54,491: INFO: common: yaml file: schema.yaml loaded successfully: ]
+[2025-01-29 14:36:54,492: INFO: common: created directory at: artifacts: ]
+[2025-01-29 14:36:54,493: INFO: common: created directory at: artifacts/data_transformation: ]
+[2025-01-29 14:36:54,536: INFO: data_transformation: Splited data into training and test sets: ]
+[2025-01-29 14:36:54,537: INFO: data_transformation: (1199, 12): ]
+[2025-01-29 14:36:54,538: INFO: data_transformation: (400, 12): ]
+[2025-01-29 14:36:54,539: INFO: main: >>>>>> stage Data Transformation stage completed <<<<<<
+
+x==========x: ]
+[2025-01-29 14:36:54,540: INFO: main: >>>>>> stage Model Trainer stage started <<<<<<: ]
+[2025-01-29 14:36:54,551: INFO: common: yaml file: config\config.yaml loaded successfully: ]
+[2025-01-29 14:36:54,552: INFO: common: yaml file: params.yaml loaded successfully: ]
+[2025-01-29 14:36:54,556: INFO: common: yaml file: schema.yaml loaded successfully: ]
+[2025-01-29 14:36:54,558: INFO: common: created directory at: artifacts: ]
+[2025-01-29 14:36:54,558: ERROR: main: "'ConfigBox' object has no attribute 'elastic_net'": ]
+Traceback (most recent call last):
+  File "box\\box.py", line 594, in box.box.Box.__getitem__
+KeyError: 'Elastic_Net'
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "box\\box.py", line 633, in box.box.Box.__getattr__
+  File "box\\box.py", line 621, in box.box.Box.__getitem__
+box.exceptions.BoxKeyError: "'Elastic_Net'"
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "box\\box.py", line 635, in box.box.Box.__getattr__
+AttributeError: 'ConfigBox' object has no attribute 'Elastic_Net'
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "box\\config_box.py", line 29, in box.config_box.ConfigBox.__getattr__
+  File "box\\box.py", line 649, in box.box.Box.__getattr__
+box.exceptions.BoxKeyError: "'ConfigBox' object has no attribute 'Elastic_Net'"
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "box\\box.py", line 594, in box.box.Box.__getitem__
+KeyError: 'elastic_net'
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "box\\box.py", line 633, in box.box.Box.__getattr__
+  File "box\\box.py", line 621, in box.box.Box.__getitem__
+box.exceptions.BoxKeyError: "'elastic_net'"
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "box\\box.py", line 635, in box.box.Box.__getattr__
+AttributeError: 'ConfigBox' object has no attribute 'elastic_net'
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "D:\DS\project\datascienceproject\main.py", line 40, in <module>
+    data_ingestion.initiate_model_training()
+  File "D:\DS\project\datascienceproject\src\datascienceproject\pipeline\model_trainer_pipeline.py", line 13, in initiate_model_training
+    model_trainer_config = config.get_model_trainer_config()
+  File "D:\DS\project\datascienceproject\src\datascienceproject\config\configuration.py", line 56, in get_model_trainer_config
+    params = self.params.Elastic_Net
+  File "box\\config_box.py", line 31, in box.config_box.ConfigBox.__getattr__
+  File "box\\box.py", line 649, in box.box.Box.__getattr__
+box.exceptions.BoxKeyError: "'ConfigBox' object has no attribute 'elastic_net'"
+[2025-01-29 14:38:16,597: INFO: main: >>>>>> stage Model Trainer stage started <<<<<<: ]
+[2025-01-29 14:38:16,601: INFO: common: yaml file: config\config.yaml loaded successfully: ]
+[2025-01-29 14:38:16,604: INFO: common: yaml file: params.yaml loaded successfully: ]
+[2025-01-29 14:38:16,607: INFO: common: yaml file: schema.yaml loaded successfully: ]
+[2025-01-29 14:38:16,608: INFO: common: created directory at: artifacts: ]
+[2025-01-29 14:38:16,609: INFO: common: created directory at: artifacts/data_ingestion: ]
+[2025-01-29 14:38:16,609: INFO: data_ingestion: File already exists: ]
+[2025-01-29 14:38:16,613: INFO: main: >>>>>> stage Model Trainer stage completed <<<<<<
+
+x==========x: ]
+[2025-01-29 14:38:16,613: INFO: main: >>>>>> stage Data Validation stage started <<<<<<: ]
+[2025-01-29 14:38:16,619: INFO: common: yaml file: config\config.yaml loaded successfully: ]
+[2025-01-29 14:38:16,620: INFO: common: yaml file: params.yaml loaded successfully: ]
+[2025-01-29 14:38:16,626: INFO: common: yaml file: schema.yaml loaded successfully: ]
+[2025-01-29 14:38:16,628: INFO: common: created directory at: artifacts: ]
+[2025-01-29 14:38:16,629: INFO: common: created directory at: artifacts/data_validation: ]
+[2025-01-29 14:38:16,658: INFO: main: >>>>>> stage Data Validation stage completed <<<<<<
+
+x==========x: ]
+[2025-01-29 14:38:16,659: INFO: main: >>>>>> stage Data Transformation stage started <<<<<<: ]
+[2025-01-29 14:38:16,672: INFO: common: yaml file: config\config.yaml loaded successfully: ]
+[2025-01-29 14:38:16,674: INFO: common: yaml file: params.yaml loaded successfully: ]
+[2025-01-29 14:38:16,679: INFO: common: yaml file: schema.yaml loaded successfully: ]
+[2025-01-29 14:38:16,681: INFO: common: created directory at: artifacts: ]
+[2025-01-29 14:38:16,682: INFO: common: created directory at: artifacts/data_transformation: ]
+[2025-01-29 14:38:16,715: INFO: data_transformation: Splited data into training and test sets: ]
+[2025-01-29 14:38:16,716: INFO: data_transformation: (1199, 12): ]
+[2025-01-29 14:38:16,717: INFO: data_transformation: (400, 12): ]
+[2025-01-29 14:38:16,720: INFO: main: >>>>>> stage Data Transformation stage completed <<<<<<
+
+x==========x: ]
+[2025-01-29 14:38:16,721: INFO: main: >>>>>> stage Model Trainer stage started <<<<<<: ]
+[2025-01-29 14:38:16,728: INFO: common: yaml file: config\config.yaml loaded successfully: ]
+[2025-01-29 14:38:16,730: INFO: common: yaml file: params.yaml loaded successfully: ]
+[2025-01-29 14:38:16,733: INFO: common: yaml file: schema.yaml loaded successfully: ]
+[2025-01-29 14:38:16,734: INFO: common: created directory at: artifacts: ]
+[2025-01-29 14:38:16,736: INFO: common: created directory at: artifacts/model_trainer: ]
+[2025-01-29 14:38:16,738: ERROR: main: ModelTrainerConfig.__init__() got an unexpected keyword argument 'alpha': ]
+Traceback (most recent call last):
+  File "D:\DS\project\datascienceproject\main.py", line 40, in <module>
+    data_ingestion.initiate_model_training()
+  File "D:\DS\project\datascienceproject\src\datascienceproject\pipeline\model_trainer_pipeline.py", line 13, in initiate_model_training
+    model_trainer_config = config.get_model_trainer_config()
+  File "D:\DS\project\datascienceproject\src\datascienceproject\config\configuration.py", line 61, in get_model_trainer_config
+    model_trainer_config = ModelTrainerConfig(
+TypeError: ModelTrainerConfig.__init__() got an unexpected keyword argument 'alpha'
+[2025-01-29 14:39:10,796: INFO: main: >>>>>> stage Model Trainer stage started <<<<<<: ]
+[2025-01-29 14:39:10,802: INFO: common: yaml file: config\config.yaml loaded successfully: ]
+[2025-01-29 14:39:10,803: INFO: common: yaml file: params.yaml loaded successfully: ]
+[2025-01-29 14:39:10,806: INFO: common: yaml file: schema.yaml loaded successfully: ]
+[2025-01-29 14:39:10,807: INFO: common: created directory at: artifacts: ]
+[2025-01-29 14:39:10,807: INFO: common: created directory at: artifacts/data_ingestion: ]
+[2025-01-29 14:39:10,809: INFO: data_ingestion: File already exists: ]
+[2025-01-29 14:39:10,814: INFO: main: >>>>>> stage Model Trainer stage completed <<<<<<
+
+x==========x: ]
+[2025-01-29 14:39:10,815: INFO: main: >>>>>> stage Data Validation stage started <<<<<<: ]
+[2025-01-29 14:39:10,818: INFO: common: yaml file: config\config.yaml loaded successfully: ]
+[2025-01-29 14:39:10,821: INFO: common: yaml file: params.yaml loaded successfully: ]
+[2025-01-29 14:39:10,826: INFO: common: yaml file: schema.yaml loaded successfully: ]
+[2025-01-29 14:39:10,827: INFO: common: created directory at: artifacts: ]
+[2025-01-29 14:39:10,829: INFO: common: created directory at: artifacts/data_validation: ]
+[2025-01-29 14:39:10,861: INFO: main: >>>>>> stage Data Validation stage completed <<<<<<
+
+x==========x: ]
+[2025-01-29 14:39:10,865: INFO: main: >>>>>> stage Data Transformation stage started <<<<<<: ]
+[2025-01-29 14:39:10,875: INFO: common: yaml file: config\config.yaml loaded successfully: ]
+[2025-01-29 14:39:10,876: INFO: common: yaml file: params.yaml loaded successfully: ]
+[2025-01-29 14:39:10,880: INFO: common: yaml file: schema.yaml loaded successfully: ]
+[2025-01-29 14:39:10,883: INFO: common: created directory at: artifacts: ]
+[2025-01-29 14:39:10,883: INFO: common: created directory at: artifacts/data_transformation: ]
+[2025-01-29 14:39:10,916: INFO: data_transformation: Splited data into training and test sets: ]
+[2025-01-29 14:39:10,918: INFO: data_transformation: (1199, 12): ]
+[2025-01-29 14:39:10,918: INFO: data_transformation: (400, 12): ]
+[2025-01-29 14:39:10,919: INFO: main: >>>>>> stage Data Transformation stage completed <<<<<<
+
+x==========x: ]
+[2025-01-29 14:39:10,919: INFO: main: >>>>>> stage Model Trainer stage started <<<<<<: ]
+[2025-01-29 14:39:10,922: INFO: common: yaml file: config\config.yaml loaded successfully: ]
+[2025-01-29 14:39:10,924: INFO: common: yaml file: params.yaml loaded successfully: ]
+[2025-01-29 14:39:10,927: INFO: common: yaml file: schema.yaml loaded successfully: ]
+[2025-01-29 14:39:10,927: INFO: common: created directory at: artifacts: ]
+[2025-01-29 14:39:10,928: INFO: common: created directory at: artifacts/model_trainer: ]
+[2025-01-29 14:39:10,929: ERROR: main: ModelTrainerConfig.__init__() got an unexpected keyword argument 'alpha': ]
+Traceback (most recent call last):
+  File "D:\DS\project\datascienceproject\main.py", line 40, in <module>
+    data_ingestion.initiate_model_training()
+  File "D:\DS\project\datascienceproject\src\datascienceproject\pipeline\model_trainer_pipeline.py", line 13, in initiate_model_training
+    model_trainer_config = config.get_model_trainer_config()
+  File "D:\DS\project\datascienceproject\src\datascienceproject\config\configuration.py", line 61, in get_model_trainer_config
+    model_trainer_config = ModelTrainerConfig(
+TypeError: ModelTrainerConfig.__init__() got an unexpected keyword argument 'alpha'
+[2025-01-29 14:39:59,911: INFO: main: >>>>>> stage Model Trainer stage started <<<<<<: ]
+[2025-01-29 14:39:59,915: INFO: common: yaml file: config\config.yaml loaded successfully: ]
+[2025-01-29 14:39:59,916: INFO: common: yaml file: params.yaml loaded successfully: ]
+[2025-01-29 14:39:59,921: INFO: common: yaml file: schema.yaml loaded successfully: ]
+[2025-01-29 14:39:59,922: INFO: common: created directory at: artifacts: ]
+[2025-01-29 14:39:59,922: INFO: common: created directory at: artifacts/data_ingestion: ]
+[2025-01-29 14:39:59,923: INFO: data_ingestion: File already exists: ]
+[2025-01-29 14:39:59,930: INFO: main: >>>>>> stage Model Trainer stage completed <<<<<<
+
+x==========x: ]
+[2025-01-29 14:39:59,930: INFO: main: >>>>>> stage Data Validation stage started <<<<<<: ]
+[2025-01-29 14:39:59,937: INFO: common: yaml file: config\config.yaml loaded successfully: ]
+[2025-01-29 14:39:59,938: INFO: common: yaml file: params.yaml loaded successfully: ]
+[2025-01-29 14:39:59,943: INFO: common: yaml file: schema.yaml loaded successfully: ]
+[2025-01-29 14:39:59,944: INFO: common: created directory at: artifacts: ]
+[2025-01-29 14:39:59,946: INFO: common: created directory at: artifacts/data_validation: ]
+[2025-01-29 14:39:59,975: INFO: main: >>>>>> stage Data Validation stage completed <<<<<<
+
+x==========x: ]
+[2025-01-29 14:39:59,976: INFO: main: >>>>>> stage Data Transformation stage started <<<<<<: ]
+[2025-01-29 14:39:59,980: INFO: common: yaml file: config\config.yaml loaded successfully: ]
+[2025-01-29 14:39:59,982: INFO: common: yaml file: params.yaml loaded successfully: ]
+[2025-01-29 14:39:59,987: INFO: common: yaml file: schema.yaml loaded successfully: ]
+[2025-01-29 14:39:59,988: INFO: common: created directory at: artifacts: ]
+[2025-01-29 14:39:59,989: INFO: common: created directory at: artifacts/data_transformation: ]
+[2025-01-29 14:40:00,045: INFO: data_transformation: Splited data into training and test sets: ]
+[2025-01-29 14:40:00,057: INFO: data_transformation: (1199, 12): ]
+[2025-01-29 14:40:00,063: INFO: data_transformation: (400, 12): ]
+[2025-01-29 14:40:00,076: INFO: main: >>>>>> stage Data Transformation stage completed <<<<<<
+
+x==========x: ]
+[2025-01-29 14:40:00,077: INFO: main: >>>>>> stage Model Trainer stage started <<<<<<: ]
+[2025-01-29 14:40:00,087: INFO: common: yaml file: config\config.yaml loaded successfully: ]
+[2025-01-29 14:40:00,090: INFO: common: yaml file: params.yaml loaded successfully: ]
+[2025-01-29 14:40:00,096: INFO: common: yaml file: schema.yaml loaded successfully: ]
+[2025-01-29 14:40:00,098: INFO: common: created directory at: artifacts: ]
+[2025-01-29 14:40:00,105: INFO: common: created directory at: artifacts/model_trainer: ]
+[2025-01-29 14:40:00,106: ERROR: main: ModelTrainerConfig.__init__() got an unexpected keyword argument 'target_column': ]
+Traceback (most recent call last):
+  File "D:\DS\project\datascienceproject\main.py", line 40, in <module>
+    data_ingestion.initiate_model_training()
+  File "D:\DS\project\datascienceproject\src\datascienceproject\pipeline\model_trainer_pipeline.py", line 13, in initiate_model_training
+    model_trainer_config = config.get_model_trainer_config()
+  File "D:\DS\project\datascienceproject\src\datascienceproject\config\configuration.py", line 61, in get_model_trainer_config
+    model_trainer_config = ModelTrainerConfig(
+TypeError: ModelTrainerConfig.__init__() got an unexpected keyword argument 'target_column'
+[2025-01-29 14:40:37,290: INFO: main: >>>>>> stage Model Trainer stage started <<<<<<: ]
+[2025-01-29 14:40:37,295: INFO: common: yaml file: config\config.yaml loaded successfully: ]
+[2025-01-29 14:40:37,296: INFO: common: yaml file: params.yaml loaded successfully: ]
+[2025-01-29 14:40:37,300: INFO: common: yaml file: schema.yaml loaded successfully: ]
+[2025-01-29 14:40:37,301: INFO: common: created directory at: artifacts: ]
+[2025-01-29 14:40:37,302: INFO: common: created directory at: artifacts/data_ingestion: ]
+[2025-01-29 14:40:37,302: INFO: data_ingestion: File already exists: ]
+[2025-01-29 14:40:37,308: INFO: main: >>>>>> stage Model Trainer stage completed <<<<<<
+
+x==========x: ]
+[2025-01-29 14:40:37,312: INFO: main: >>>>>> stage Data Validation stage started <<<<<<: ]
+[2025-01-29 14:40:37,315: INFO: common: yaml file: config\config.yaml loaded successfully: ]
+[2025-01-29 14:40:37,317: INFO: common: yaml file: params.yaml loaded successfully: ]
+[2025-01-29 14:40:37,320: INFO: common: yaml file: schema.yaml loaded successfully: ]
+[2025-01-29 14:40:37,320: INFO: common: created directory at: artifacts: ]
+[2025-01-29 14:40:37,321: INFO: common: created directory at: artifacts/data_validation: ]
+[2025-01-29 14:40:37,357: INFO: main: >>>>>> stage Data Validation stage completed <<<<<<
+
+x==========x: ]
+[2025-01-29 14:40:37,363: INFO: main: >>>>>> stage Data Transformation stage started <<<<<<: ]
+[2025-01-29 14:40:37,369: INFO: common: yaml file: config\config.yaml loaded successfully: ]
+[2025-01-29 14:40:37,371: INFO: common: yaml file: params.yaml loaded successfully: ]
+[2025-01-29 14:40:37,379: INFO: common: yaml file: schema.yaml loaded successfully: ]
+[2025-01-29 14:40:37,380: INFO: common: created directory at: artifacts: ]
+[2025-01-29 14:40:37,381: INFO: common: created directory at: artifacts/data_transformation: ]
+[2025-01-29 14:40:37,418: INFO: data_transformation: Splited data into training and test sets: ]
+[2025-01-29 14:40:37,419: INFO: data_transformation: (1199, 12): ]
+[2025-01-29 14:40:37,420: INFO: data_transformation: (400, 12): ]
+[2025-01-29 14:40:37,421: INFO: main: >>>>>> stage Data Transformation stage completed <<<<<<
+
+x==========x: ]
+[2025-01-29 14:40:37,422: INFO: main: >>>>>> stage Model Trainer stage started <<<<<<: ]
+[2025-01-29 14:40:37,430: INFO: common: yaml file: config\config.yaml loaded successfully: ]
+[2025-01-29 14:40:37,432: INFO: common: yaml file: params.yaml loaded successfully: ]
+[2025-01-29 14:40:37,435: INFO: common: yaml file: schema.yaml loaded successfully: ]
+[2025-01-29 14:40:37,436: INFO: common: created directory at: artifacts: ]
+[2025-01-29 14:40:37,437: INFO: common: created directory at: artifacts/model_trainer: ]
+[2025-01-29 14:40:37,696: INFO: main: >>>>>> stage Model Trainer stage completed <<<<<<
+
+x==========x: ]

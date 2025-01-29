@@ -22,11 +22,12 @@ class DataValiadtion:
             for col in all_cols:
                 if col not in all_schema:
                     validation_status = False
-                    with open(self.config.STATUS_FILE, 'a') as f:
+                    with open(self.config.STATUS_FILE, 'w') as f:
                         f.write(f"Validation status: {validation_status}\n")
+                    print("dataset is not valid")
                 else:
                     validation_status = True
-                    with open(self.config.STATUS_FILE, 'a') as f:
+                    with open(self.config.STATUS_FILE, 'w') as f:
                         f.write(f"Validation status: {validation_status}\n")
 
             return validation_status
@@ -46,11 +47,12 @@ class DataValiadtion:
             for col in all_cols:
                 if data[col].dtype != self.config.all_schema[col]:
                     validation_status = False
-                    with open(self.config.STATUS_FILE, 'a') as f:
+                    with open(self.config.STATUS_FILE, 'w') as f:
                         f.write(f"data_Validation status: {validation_status}\n")
+                    print("dataset is not valid")
                 else:
                     validation_status = True
-                    with open(self.config.STATUS_FILE, 'a') as f:
+                    with open(self.config.STATUS_FILE, 'w') as f:
                         f.write(f"data_Validation status: {validation_status}\n")
 
             return validation_status
